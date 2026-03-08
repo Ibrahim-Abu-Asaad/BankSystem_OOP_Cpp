@@ -121,7 +121,7 @@ This project is free to use, modify, and extend.
 
 ## 👨‍💻 Author
 
-**Ibrahim Abu-Assad**  
+**Ibrahim Abu-Asaad**  
 
 📧 i6802275@gmail.com  
 
