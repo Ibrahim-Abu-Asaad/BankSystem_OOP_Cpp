@@ -122,8 +122,10 @@ This project is free to use, modify, and extend.
 ## 👨‍💻 Author
 
 **Ibrahim Abu-Assad**  
+
 📧 i6802275@gmail.com  
-🌍 GitHub: [Ibrahim-Abu-Assad](https://github.com/Ibrahim-Abu-Assad)
+
+🌍 GitHub: [Ibrahim-Abu-Assad](https://github.com/Ibrahim-Abu-Asaad)
 
 ---
 
