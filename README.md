@@ -125,7 +125,7 @@ This project is free to use, modify, and extend.
 
 📧 i6802275@gmail.com  
 
-🌍 GitHub: [Ibrahim-Abu-Assad](https://github.com/Ibrahim-Abu-Asaad)
+🌍 GitHub: [Ibrahim-Abu-Asaad](https://github.com/Ibrahim-Abu-Asaad)
 
 ---
 
